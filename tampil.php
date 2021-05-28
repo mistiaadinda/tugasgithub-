@@ -4,8 +4,8 @@ $db = new database();
 ?>
 
 
-<h1>CRUD OOP PHP</h1>
-<h2>WWW.MLASNGODING.COM</h2>
+<h1><strong>CRUD OOP PHP</strong></h1>
+<h2>WWW.MALASNGODING.COM</h2>
 <h3>Data User</h3>
 
 <a href="input.php">Input Data</a>
