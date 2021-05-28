@@ -3,6 +3,7 @@ include '../model/database.php';
 $db = new database();
 ?>
 
+
 <h1>CRUD OOP PHP</h1>
 <h2>WWW.MLASNGODING.COM</h2>
 <h3>Data User</h3>
