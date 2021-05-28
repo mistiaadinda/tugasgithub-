@@ -12,7 +12,7 @@ $db = new database();
 <table border="1">
 	<tr>
 		<th>No</th>
-		<th>USERNAME</th>
+		<th>NAMA</th>
 		<th>PRODI</th>
 		<th>EMAIL</th>
 		<th>Opsi</th>
